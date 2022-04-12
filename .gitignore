@@ -1,0 +1,6 @@
+#ignora todos los archivos de texto
+*.txt
+
+#ignora ejecutables
+*.exe
+
