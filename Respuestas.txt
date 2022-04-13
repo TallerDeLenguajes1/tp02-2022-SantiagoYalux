@@ -1,1 +1,6 @@
 Respuestas
+1)-No podemos verlo ya que hicimos el commit en una rama diferente, distinta de la principal, los cambios no fueron incluidos en la rama main
+
+2)-Noto que en la rama principal no estan incluidos los cambios que hicimos en la rama Opcion_2
+
+3)-Noto que la rama Opcion_2 se unió a la rama principal, ahora puedo ver los archivos en la rama main los archivos creados en Opcion_2
